@@ -1,1 +1,3 @@
-variable "vnet1" {}
+variable "vnet1" {
+    type    = any
+}

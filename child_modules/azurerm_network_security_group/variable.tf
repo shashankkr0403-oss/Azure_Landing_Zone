@@ -1,1 +1,3 @@
-variable "nsg1" {}
+variable "nsg1" {
+    type    = any
+    }

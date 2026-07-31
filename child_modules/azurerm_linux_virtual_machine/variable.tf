@@ -1,1 +1,3 @@
-variable "vm1" {}
+variable "vm1" {
+    type    = any
+}

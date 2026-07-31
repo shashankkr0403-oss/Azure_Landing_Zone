@@ -1,1 +1,3 @@
-variable "rg1" {}
+variable "rg1" {
+    type    = any
+}
